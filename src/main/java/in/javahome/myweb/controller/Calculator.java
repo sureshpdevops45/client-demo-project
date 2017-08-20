@@ -1,5 +1,5 @@
 package in.javahome.myweb.controller;
-package in.jvahome.myweb.delete;
+
 /*
  * 
  */
@@ -7,7 +7,7 @@ public class Calculator {
 	   public int add(int number1, int number2) 
    {
      if (number1> number2)
-	   return number1 + number2;
+	   returna number1 + number2;
 	   else 
 		   return 10101010;
    }
