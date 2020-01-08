@@ -1,5 +1,0 @@
-projectKey=client-demo-project
-serverUrl=http://54.144.207.180:9000
-projectNmae=clinet-demo
-projectVersion=1.0
-sources=/var/jenkins_home/workspace/myfirstjob/src/main/java
