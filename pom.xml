@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.javahome</groupId>
-	<artifactId>DevOpsDemoProject</artifactId>
+	<artifactId>ClientDemoProject</artifactId>
 	<packaging>war</packaging>
 	<version>20.0.4-SNAPSHOT</version>
-	<name>DevOps Demo Project</name>
+	<name>Client Demo Project</name>
 	<url>http://maven.apache.org</url>
 	
 	<dependencies>
@@ -62,9 +62,9 @@
             <project.scm.id>git</project.scm.id>
          </properties>
 	  <scm>
-		<url>https://github.com/NagireddyGuduru/client-demo-project</url>
-		<connection>scm:git:https://github.com/NagireddyGuduru/client-demo-project.git</connection>
-		<developerConnection>scm:git:https://github.com/NagireddyGuduru/client-demo-project.git</developerConnection>
+		<url>https://github.com/sureshpdevops45/client-demo-project</url>
+		<connection>scm:git:https://github.com/sureshpdevops45/client-demo-project.git</connection>
+		<developerConnection>scm:git:https://github.com/sureshpdevops45/client-demo-project.git</developerConnection>
 	    <tag>HEAD</tag>
   </scm>
 	<profiles>
