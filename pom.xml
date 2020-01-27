@@ -33,13 +33,13 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://35.176.116.138:8081/nexus/content/repositories/releases/</url>
+            <url>http://54.144.230.91:8081/repository/maven-releases/</url>
 			<uniqueVersion>false</uniqueVersion>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-                     <url>http://35.176.116.138:8081/nexus/content/repositories/snapshots/</url>
+                     <url>http://54.144.230.91:8081/repository/maven-releases//</url>
 			<uniqueVersion>false</uniqueVersion>
         </snapshotRepository>
     </distributionManagement>
